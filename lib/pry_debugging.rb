@@ -1,5 +1,9 @@
 def plus_two(num)
-	return num + 2
+	num + 2
+	num
 end
 
-puts plus_two(3)
+  2 + num
+  #binding.pry
+end
+plus_two(3)
