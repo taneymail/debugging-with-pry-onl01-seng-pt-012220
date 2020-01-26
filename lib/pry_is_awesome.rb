@@ -9,6 +9,7 @@ def prying_into_the_method
 	puts this_variable_hasnt_been_interpreted_yet
 end
 
+inside_the_method
 
 
 
